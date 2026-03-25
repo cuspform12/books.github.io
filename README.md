@@ -1,5 +1,5 @@
 # books
-Listing some of the books/papers:
+Listing some reading material:
 
 
 The Casual Vacancy by J.K.Rowling
